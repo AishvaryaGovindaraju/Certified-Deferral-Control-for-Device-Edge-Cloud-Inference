@@ -8,7 +8,7 @@ hand.
 
 | Path | What it is |
 |---|---|
-| `main.tex` | SN Computer Science source (`\documentclass[journal]{IEEEtran}`) |
+| `main.tex` | SN Computer Science source |
 | `refs.bib` | 61 references, every entry resolved against OpenAlex; 58 carry DOIs |
 | `CoDeC_IoTJ.pdf` | Rendered double-column preview (see "Compiling" below) |
 | `codec/core.py` | Risk-control core: stratified bound, fixed-sequence certification, tracking controller |
